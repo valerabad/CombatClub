@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Course\CombatClub\CombatClub\bin\Debug\CombatClub.exe.config
+C:\Users\HP\Desktop\Course\CombatClub\CombatClub\obj\Debug\CombatClub.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Course\CombatClub\CombatClub\obj\Debug\CombatClub.Form1.resources
+C:\Users\HP\Desktop\Course\CombatClub\CombatClub\obj\Debug\CombatClub.Properties.Resources.resources
+C:\Users\HP\Desktop\Course\CombatClub\CombatClub\obj\Debug\CombatClub.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Course\CombatClub\CombatClub\bin\Debug\CombatClub.exe
+C:\Users\HP\Desktop\Course\CombatClub\CombatClub\bin\Debug\CombatClub.pdb
+C:\Users\HP\Desktop\Course\CombatClub\CombatClub\obj\Debug\CombatClub.exe
+C:\Users\HP\Desktop\Course\CombatClub\CombatClub\obj\Debug\CombatClub.pdb
